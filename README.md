@@ -25,7 +25,9 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Aerospace-prog&icon=0&color=0)](https://visitcount.itsvg.in)
+[![Kushagra's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aerospace-prog&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true)](https://github.com/Aerospace-prog/github-readme-activity-graph)
+<h3 align="center">Visitor's count</h3>
+<p align="center"><img src="https://profile-counter.glitch.me/{Aerospace-prog}/count.svg/" alt="Aerospace-prog Visitor's count" /></p>
 
 ![image](https://github.com/user-attachments/assets/2928d416-7425-49f7-9b05-22f24addfa4f)
 
