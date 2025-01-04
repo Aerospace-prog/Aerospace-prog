@@ -5,7 +5,7 @@
 # 💫 About Me:
 <img align="right" alt="coding" width="415" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
-👋 Hi, I’m @Aerospace-prog (Kushagra Pandey)<br>👀 I’m interested in Development<br>🌱 I’m currently learning JavaScript , HTML ,CSS ,Java and Python<br>💞️ I’m looking to collaborate on Open Source Projects<br>📫 How to reach me (mailto:kushagra22.aug@gmail.com)<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I am very passionate for exporing this vast Coding world...
+👋 Hi, I’m @Aerospace-prog (Kushagra Pandey)<br>👀 I’m interested in Development<br>🌱 I’m currently learning JavaScript ,MERN, HTML ,CSS ,Java and Python<br>💞️ I’m looking to collaborate on Open Source Projects<br>📫 How to reach me (mailto:kushagra22.aug@gmail.com)<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I am very passionate for exporing this vast Coding world...
 
 
 ## 🌐 Socials:
