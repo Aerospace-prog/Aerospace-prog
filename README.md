@@ -49,7 +49,12 @@
 [![Kushagra's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aerospace-prog&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true)](https://github.com/Aerospace-prog/github-readme-activity-graph)  
 
 <h3 align="center">Visitor's Count</h3>  
-<p align="center"><img src="https://profile-counter.glitch.me/{Aerospace-prog}/count.svg/" alt="Aerospace-prog Visitor's Count" /></p>  
+<p align="center"> 
+
+![](https://komarev.com/ghpvc/?username=Aerospace-prog&style=plastic)
+</p>
+
+
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
