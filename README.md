@@ -54,6 +54,10 @@
 
 ---
 
+[![An image of @aerospaceprog's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aerospaceprog)](https://holopin.io/@aerospaceprog)
+
+---
+
 ### ✍️ **Random Dev Quote**
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)  
 
