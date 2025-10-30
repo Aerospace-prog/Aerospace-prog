@@ -1,5 +1,11 @@
 ![github-header-image](https://github.com/user-attachments/assets/9619cc50-a1e8-4d46-abd2-ce953afe2238)
 
+<p align="center">
+  <a href="https://www.buymeacoffee.com/Aerospace.prog" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150">
+  </a>
+</p>
+
 # 💫 About Me:
 <img align="right" alt="coding" width="415" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
@@ -79,10 +85,3 @@
   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
 </div>
 
----
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/Aerospace.prog" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150">
-  </a>
-</p>
